@@ -11,9 +11,9 @@ To run the app, simply open the index.html file in your web browser.
 Usage:
 To use the app, follow these steps:
 
-Enter a city name in the search bar.
-Click the "Search" button.
-The app will display the current weather conditions for the searched location.
+1. Enter a city name in the search bar.
+2. Click the "Search" button.
+3. The app will display the current weather conditions for the searched location.
 
 Dependencies:
 This app uses the following dependencies:
